@@ -9,12 +9,12 @@ Landing page created from odin project [curriculum](https://www.theodinproject.c
 [Live Demo](https://jamesnan.github.io/odin-project/Landing-page/index.html)👈
 
 
-## 3. Rock Paper Scissors Project
+## 3. Rock Paper Scissors 
 Rock paper scissors game created with HTML, CSS and JS from Odin Project [curriculum](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 [Live Demo](https://jamesnan.github.io/odin-project/Rock-Paper-Scissors/index.html)👈
 
-## 4. Etch-a-Sketch Project
+## 4. Etch-a-Sketch 
 Sketchpad created with HTML, CSS and JS from Odin Project [curriculum](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 
 [Live Demo](https://jamesnan.github.io/odin-project/Etch-a-sketch/index.html)👈
