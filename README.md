@@ -1,12 +1,12 @@
 # Odin Project
 
 ## 1. odin-recipes
-A  HTML [website](https://jamesnan.github.io/odin-projec/odin-recipes/) for showcasing [odin recipes project](https://www.theodinproject.com/lessons/foundations-recipes)
+A  HTML [website](https://jamesnan.github.io/odin-project/odin-recipes/) for showcasing [odin recipes project](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## 2.Landing Page
 Landing page created from odin project [curriculum](https://www.theodinproject.com/lessons/foundations-landing-page)
 
-[Live Demo](https://jamesnan.github.io/odin-projec/Landing-page/)👈
+[Live Demo](https://jamesnan.github.io/odin-project/Landing-page/)👈
 
 
 ## 3. Rock Paper Scissors Project
